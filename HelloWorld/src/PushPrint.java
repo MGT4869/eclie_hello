@@ -4,5 +4,6 @@ public class PushPrint {
 		// TODO Auto-generated method stub
 		System.out.println("file add");
 		System.out.println("file add3");
+		System.out.println("file add2");
 	}
 }
